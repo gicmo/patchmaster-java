@@ -19,7 +19,7 @@ GUI
 A very simple GUI is provided that displays data in the file
 in the tree as it is stored in the file.
 
-![Screenshot](https://raw.githubusercontent.com/gicmo/patchmaster-java/master/doc/gui.png)
+![Screenshot](doc/gui.png)
 
 File format
 -----------
